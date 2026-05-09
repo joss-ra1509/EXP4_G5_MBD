@@ -8,7 +8,7 @@ Este proyecto implementa una solución robusta de **Auditoría y Trazabilidad** 
 
 ## 👥 Integrantes y Distribución de Responsabilidades
  Responsabilidad Técnica |
-| --- | --- |
+
 * **Líder de Integración:** Diseño de arquitectura de Bitácora, optimización de índices, unificación del Script Maestro y desarrollo de la Batería de Pruebas Automatizada. |
 * **Tablas de Apoyo:** Creación y configuración de las tablas de apoyo (Empleados, Inventario, Usuarios, Pagos y Roles) y sus respectivos triggers base. |
 * **Tablas Maestras:** Desarrollo de triggers de auditoría para las tablas de Clientes y Productos. |
